@@ -1,0 +1,26 @@
+body {
+  background-color: #ffa8B6;
+  color: white;
+}
+
+img {
+  width: 80%;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.songCard {
+  background-color: #a28089;
+  height: 500px;
+  width: 400px;
+  flex-direction: column;
+  justify-content: center;
+}
